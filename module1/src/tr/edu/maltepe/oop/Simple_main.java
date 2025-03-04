@@ -7,6 +7,7 @@ public class Simple_main {
         Cat cat1 = new Cat("Whiskers", 3);
         Cat cat2 = new Cat("Mittens", 2);
 
+
         // Calling the meow method
         cat1.meow();
         cat2.meow();

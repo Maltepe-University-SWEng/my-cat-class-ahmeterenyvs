@@ -51,6 +51,7 @@ class Cat {
         }
     }
 
+
     public static void main(String[] args) {
         // Creating objects
             Cat cat1 = new Cat("Whiskers", 3);
